@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SocialApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="colorPrimary">#1DA1F2</item>
+        <item name="colorSecondary">#1DA1F2</item>
+    </style>
+</resources>
